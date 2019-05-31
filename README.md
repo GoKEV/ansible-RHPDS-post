@@ -1,4 +1,4 @@
-[![RedHatROoT/ansible](https://raw.githubusercontent.com/redhatroot/ansible-demos/master/roles/RedHatRoot.png)](https://github.com/redhatroot/ansible/)
+[![RedHatROoT/ansible](https://avatars2.githubusercontent.com/u/2985831?s=460)](https://github.com/redhatroot/ansible/)
 
 <div style="position: absolute; top: 40px; left: 200px;">
 
